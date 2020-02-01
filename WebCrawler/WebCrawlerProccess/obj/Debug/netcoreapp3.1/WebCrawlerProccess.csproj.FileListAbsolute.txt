@@ -1,0 +1,16 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.exe
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.deps.json
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.runtimeconfig.json
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.runtimeconfig.dev.json
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerProccess.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerQService.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\bin\Debug\netcoreapp3.1\WebCrawlerQService.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.csprojAssemblyReference.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.AssemblyInfoInputs.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.AssemblyInfo.cs
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.csproj.CopyComplete
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerProccess\obj\Debug\netcoreapp3.1\WebCrawlerProccess.pdb

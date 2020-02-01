@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebCrawlerProccess/1.0.0": {
+        "dependencies": {
+          "WebCrawlerCore": "1.0.0",
+          "WebCrawlerQService": "1.0.0"
+        },
+        "runtime": {
+          "WebCrawlerProccess.dll": {}
+        }
+      },
+      "WebCrawlerCore/1.0.0": {
+        "runtime": {
+          "WebCrawlerCore.dll": {}
+        }
+      },
+      "WebCrawlerQService/1.0.0": {
+        "dependencies": {
+          "WebCrawlerCore": "1.0.0"
+        },
+        "runtime": {
+          "WebCrawlerQService.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebCrawlerProccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebCrawlerCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebCrawlerQService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

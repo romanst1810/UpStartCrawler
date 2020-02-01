@@ -1,0 +1,8 @@
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\bin\Debug\netcoreapp3.1\WebCrawlerCore.deps.json
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\bin\Debug\netcoreapp3.1\WebCrawlerCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\bin\Debug\netcoreapp3.1\WebCrawlerCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\obj\Debug\netcoreapp3.1\WebCrawlerCore.AssemblyInfoInputs.cache
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\obj\Debug\netcoreapp3.1\WebCrawlerCore.AssemblyInfo.cs
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\obj\Debug\netcoreapp3.1\WebCrawlerCore.dll
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\obj\Debug\netcoreapp3.1\WebCrawlerCore.pdb
+D:\0000 WEB_Projects Visual Studio\28 Job Interview Works\UpStart StartUp\UpStartCrawler\WebCrawler\WebCrawlerCore\obj\Debug\netcoreapp3.1\WebCrawlerCore.csprojAssemblyReference.cache

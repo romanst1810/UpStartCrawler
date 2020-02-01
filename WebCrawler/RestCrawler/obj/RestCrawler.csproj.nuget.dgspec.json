@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\RestCrawler\\RestCrawler.csproj": {}
+  },
+  "projects": {
+    "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\RestCrawler\\RestCrawler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\RestCrawler\\RestCrawler.csproj",
+        "projectName": "RestCrawler",
+        "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\RestCrawler\\RestCrawler.csproj",
+        "packagesPath": "C:\\Users\\Roman-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\RestCrawler\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Roman-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj": {
+                "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj"
+              },
+              "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\WebCrawlerDataAccess.csproj": {
+                "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\WebCrawlerDataAccess.csproj"
+              },
+              "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\WebCrawlerQService.csproj": {
+                "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\WebCrawlerQService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.9.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj",
+        "projectName": "WebCrawlerCore",
+        "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj",
+        "packagesPath": "C:\\Users\\Roman-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Roman-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\WebCrawlerDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\WebCrawlerDataAccess.csproj",
+        "projectName": "WebCrawlerDataAccess",
+        "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\WebCrawlerDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Roman-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Roman-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj": {
+                "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\WebCrawlerQService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\WebCrawlerQService.csproj",
+        "projectName": "WebCrawlerQService",
+        "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\WebCrawlerQService.csproj",
+        "packagesPath": "C:\\Users\\Roman-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerQService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Roman-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj": {
+                "projectPath": "D:\\0000 WEB_Projects Visual Studio\\28 Job Interview Works\\UpStart StartUp\\UpStartCrawler\\WebCrawler\\WebCrawlerCore\\WebCrawlerCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
